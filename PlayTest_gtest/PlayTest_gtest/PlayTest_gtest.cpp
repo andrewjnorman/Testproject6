@@ -1,6 +1,6 @@
 // PlayTest_gtest.cpp : Defines the entry point for the console application.
 
-
+//Moved Github repo to TestProject6
 #include "stdafx.h"
 #include <gtest/gtest.h>
 
